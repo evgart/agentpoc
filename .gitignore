@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/front-end/src/main/webapp/WEB-INF/classes/
+/front-end/target/
+/back-end/target/
+/.idea/$PRODUCT_WORKSPACE_FILE$
+/agentpoc.iml
+/.idea/.gitignore
+/.idea//workspace.xml
+/.idea//misc.xml
+/.idea/*
