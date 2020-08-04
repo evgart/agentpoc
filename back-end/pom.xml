@@ -48,6 +48,12 @@
                         <goals>
                             <goal>repackage</goal>
                         </goals>
+                        <configuration>
+                            <classifier>jar-with-dependencies</classifier>
+                            <mainClass>
+                                com.example.back.Application
+                            </mainClass>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
